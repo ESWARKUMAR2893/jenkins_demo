@@ -1,1 +1,1 @@
-this file has to be downloaded by jenkins 
+this file has to be downloaded by jenkins -- changed for jenkins to check and trigger 
